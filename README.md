@@ -23,7 +23,9 @@ print("{:.2f}".format(distance))
 
 
 ### OUTPUT:
-![output](/testfile2.png)
+![testfile2](https://user-images.githubusercontent.com/113497423/192699121-1d758007-ae5b-4523-99b4-13baa58e9e5b.png)
+
+
 
 ### RESULT:
 By this program we able to find the distance between two points.
