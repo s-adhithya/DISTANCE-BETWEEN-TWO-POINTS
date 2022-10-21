@@ -16,9 +16,9 @@ distance = math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
 print the distance in two decimal 
 ### PROGRAM:
 ```python
- #Program to find the distance between two points.
-#Developed by: adhithya.s
-#RegisterNumber:22005823
+Program to find the distance between two points.
+Developed by: adhithya.s
+RegisterNumber:22005823
 import math
 l1=[4,2]
 l2=[10,6]
